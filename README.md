@@ -1,6 +1,6 @@
 # Projet 1 — Analyse des journaux d'un pare-feu
 
-**Nom / Prénom** : NOM Prénom (Baba) — L3 RSIoT, ISEP Diamniadio
+**Nom / Prénom** : BABA SADY RSIoT, ISEP Diamniadio
 
 ## Lancer le projet
 
