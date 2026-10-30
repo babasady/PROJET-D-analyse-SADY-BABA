@@ -1,6 +1,6 @@
 # Rapport d'analyse — journaux du pare-feu (5 au 11 octobre 2026)
 
-**Auteur** : NOM Prénom
+**Auteur** : BABA SADY
 
 ## Résumé
 
